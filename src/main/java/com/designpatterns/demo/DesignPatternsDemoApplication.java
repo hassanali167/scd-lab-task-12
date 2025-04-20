@@ -1,3 +1,4 @@
+
 package com.designpatterns.demo;
 
 import org.springframework.boot.SpringApplication;
